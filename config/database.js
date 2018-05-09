@@ -1,4 +1,4 @@
 module.exports = {
-	database: 'mongodb://localhost:27017/webtrekk',
+	database: 'mongodb://bato:123qwe@ds119160.mlab.com:19160/batomean',
 	secret: 'ursecret'
 };
